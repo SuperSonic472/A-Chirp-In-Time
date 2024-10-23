@@ -1,5 +1,5 @@
 # A-Chirp-In-Time
-costume3.png
+/costume3.png
 Probably one of the most ambitious mods, Chirpy Reverie if it was A Hat In Time basically.
 ACIT to-do:
 Separating bosses from the level (separate stages)
