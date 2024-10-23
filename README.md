@@ -1,5 +1,5 @@
 # A-Chirp-In-Time
-![alt text](https://github.com/SuperSonic472/A-Chirp-In-Time/blob/main/costume3.png "Logo Title Text 1")
+![alt text](https://github.com/SuperSonic472/A-Chirp-In-Time/blob/main/costume3.png "Thumbnail")
 
 Probably one of the most ambitious mods, Chirpy Reverie if it was A Hat In Time basically.
 
