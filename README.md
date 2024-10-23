@@ -1,5 +1,5 @@
 # A-Chirp-In-Time
-https://github.com/SuperSonic472/A-Chirp-In-Time/blob/main/costume3.png?raw=true
+costume3.png
 Probably one of the most ambitious mods, Chirpy Reverie if it was A Hat In Time basically.
 ACIT to-do:
 Separating bosses from the level (separate stages)
